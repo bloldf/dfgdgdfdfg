@@ -1,5 +1,4 @@
-
- {
+{
   "dependencies": {
     "and": "0.0.3",
     "anti-spam": "^0.2.7",
@@ -42,8 +41,5 @@
     "youtube-info": "^1.2.0",
     "ytdl-core": "^0.21.1",
     "zalgolize": "^1.2.4"
-  },
-  "scripts": {
-    "start": "node server.js"
   }
 }
